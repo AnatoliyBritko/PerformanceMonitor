@@ -2,6 +2,7 @@
 
 Полезные ссылки
 
+[Использование System Monitor для диагностики проблем производительности 1С:ИТС](https://its.1c.ru/db/metod8dev/content/2923/hdoc "1С:ИТС")  
 [Мониторинг на продукционных серверах 1С:ИТС](http://its.1c.ru/db/metod8dev#content:5809:hdoc "1С:ИТС")  
 [Анализ загруженности оборудования для Windows 1С:ИТС](http://its.1c.ru/db/metod8dev#content:5838:hdoc "1С:ИТС")  
 [Использование System Monitor для диагностирования проблем в производительности](http://help1c.by/ispolzovanie-system-monitor-dlya-diagnostirovaniya-problem-v-proizvoditelnosti/ "")    
